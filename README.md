@@ -12,7 +12,8 @@ Chaged from stock 3mm panel + 1mm Foam Tape
 
 
 ## [2.4 300]
-none yet
+[Config Files](https://github.com/Fusionlit/VoronMods/tree/main/2.4/Config)
+
 
 
 
